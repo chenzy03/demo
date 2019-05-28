@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by Czy on 2019/5/28.
+ * @author  Czy on 2019/5/28.
  */
 @RestController
 @RequestMapping(value = "/api/demo")
